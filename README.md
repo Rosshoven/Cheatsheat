@@ -1,4 +1,4 @@
-# Cheatsheat
+# Cheatsheet
 This is a quick cheatsheet for html elements, set in table form. 
 
 # Installation
